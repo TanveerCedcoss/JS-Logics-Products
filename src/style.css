@@ -24,10 +24,10 @@ label{
 
 #table{
     width:100%;
-    padding-top:50px;
-    font-size: 25px;
+    padding: top 45px;
+    font-size: 20px;
 }
 
 td{
-    align-items: center;
+    text-align: center;
 }
